@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Factoring.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "YOUR_LOGIN"
+    }
+  }
+}
